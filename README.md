@@ -1,4 +1,4 @@
-This repo provides a minimum working example for an issue spotted with buildkit's inline caching in versions >=0.8.0
+This repo provides a minimum working example for an issue spotted with buildkit's inline caching in versions >=0.8.0, see https://github.com/moby/buildkit/issues/2551
 
 ## Running
 
